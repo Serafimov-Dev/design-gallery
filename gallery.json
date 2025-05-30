@@ -2,469 +2,469 @@
   {
     "id": 1,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/1.jpg",
-    "description": "Лого за участие в конкурс.",
+    "description": "Logo for a competition entry.",
     "stars": 3,
     "category": 1,
-    "pro": "Балансирано и изчистено.",
-    "cons": "Не харесвам заострените сепаратори. Сега бих променил и стила на слогана."
+    "pro": "Balanced and clean.",
+    "cons": "I don't like the sharp separators. Now I would also change the slogan's style."
   },
   {
     "id": 2,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/2.jpg",
-    "description": "Гордея се с този циферблат. Функционалност, история и патриотизъм в едно",
+    "description": "I'm proud of this watch face. Functionality, history, and patriotism in one.",
     "stars": 5,
     "category": 3,
-    "pro": "Мисля, че не нищо не може да се добави или премахне от него.",
-    "cons": "Нямам забележки"
+    "pro": "I think nothing can be added or removed from it.",
+    "cons": "No remarks."
   },
   {
     "id": 3,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/3.jpg",
-    "description": "Диспенсър за проектили за колан. Идея, дизайн, изработка и тестове, отне ми около месец да премина през всичките етапи.",
+    "description": "Belt projectile dispenser. Idea, design, production, and testing took me about a month to complete all stages.",
     "stars": 5,
     "category": 2,
-    "pro": "Решава елегантно конкретен проблем",
-    "cons": "Използвам PLA, който не е много устойчив на високи температури. Вече имам идея за подобрение, но не знам кога ще успея да я реализирам."
+    "pro": "Elegantly solves a specific problem.",
+    "cons": "I use PLA, which is not very heat-resistant. I already have an idea for improvement, but I don't know when I'll be able to realize it."
   },
   {
     "id": 4,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/4.jpg",
-    "description": "Лого за участие в конкурс. Не мисля, че има какво да напиша за него.",
+    "description": "Logo for a competition entry. I don't think there's much to say about it.",
     "stars": 3,
     "category": 1,
-    "pro": "Стилизираната първа буква може да се използва и самостоятелно като икона за приложение.",
-    "cons": "Можеше да се постарая и повече."
+    "pro": "The stylized first letter can be used alone as an app icon.",
+    "cons": "I could have put in more effort."
   },
   {
     "id": 5,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/5.jpg",
-    "description": "Имах излишно синьо, харесвам Кинг и си помислих, правя го!",
+    "description": "I had some extra blue, I like King, and thought, let's do it!",
     "stars": 5,
     "category": 2,
-    "pro": "Намерих решение на проблема с баланса на буквите. Стабилни са и не падат лесно",
-    "cons": "Нямам забележки"
+    "pro": "I found a solution to the balance problem with the letters. They're stable and don't fall easily.",
+    "cons": "No remarks."
   },
   {
     "id": 6,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/6.jpg",
-    "description": "Лого за участие в конкурс. Един от по-старите ми дизайни.",
+    "description": "Logo for a competition entry. One of my older designs.",
     "stars": 5,
     "category": 1,
-    "pro": "Изглежда супер стилно. Харесвам идеята си да слея двете букви по-този начин.",
-    "cons": "Нямам забележки"
+    "pro": "Looks super stylish. I like my idea of merging the two letters this way.",
+    "cons": "No remarks."
   },
   {
     "id": 7,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/7.jpg",
-    "description": "Играта X и O. Има и капак, бих казал че се получи добре.",
+    "description": "The game X and O. It even has a lid, I'd say it turned out well.",
     "stars": 4,
     "category": 2,
-    "pro": "Изглежда супер, цвят, и изпълнение.",
-    "cons": "Нямам забележки"
+    "pro": "Looks great, color and execution.",
+    "cons": "No remarks."
   },
   {
     "id": 8,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/8.jpg",
-    "description": "Лого за участие в конкурс. Понякога просто съм отварял Корел за 3 минути, колкото да се разсейвам.",
+    "description": "Logo for a competition entry. Sometimes I just opened Corel for 3 minutes, just to take a break.",
     "stars": 1,
     "category": 1,
-    "pro": "Няма",
-    "cons": "Изглежда зле и не завършено."
+    "pro": "None.",
+    "cons": "Looks bad and unfinished."
   },
   {
     "id": 9,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/9.jpg",
-    "description": "Подпори за книги, по идея на клиент. Тематична, за поредицата на Холи Блек",
+    "description": "Bookends, based on a client's idea. Themed for the Holly Black series.",
     "stars": 5,
     "category": 2,
-    "pro": "Изглеждат страхотно.",
-    "cons": "Леки са и не много стабилни."
+    "pro": "They look great.",
+    "cons": "They're light and not very stable."
   },
   {
     "id": 10,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/10.jpg",
-    "description": "Лого за участие в конкурс. Харесвам това лого.",
+    "description": "Logo for a competition entry. I like this logo.",
     "stars": 5,
     "category": 1,
-    "pro": "Харесвам минималистичния стил и как с 5 геометрични фигури успях да направя нещо, което изглежда добре.",
-    "cons": "Слогана, в дясно ли му е мястото? Не знам, не съм сигурен."
+    "pro": "I like the minimalist style and how I managed to create something good-looking with just 5 geometric shapes.",
+    "cons": "Should the slogan be on the right? I don't know, I'm not sure."
   },
   {
     "id": 11,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/11.jpg",
-    "description": "Освежаване на стара шевна машина. Трасиране и печат на фолио.",
+    "description": "Refurbishing an old sewing machine. Tracing and printing on foil.",
     "stars": 5,
     "category": 4,
-    "pro": "Изглежда 1 към 1 с оригинала.",
-    "cons": "Нямам забележки"
+    "pro": "Looks identical to the original.",
+    "cons": "No remarks."
   },
   {
     "id": 12,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/12.jpg",
-    "description": "Лого и корица за Фейсбук страницата на брат ми.",
+    "description": "Logo and cover for my brother's Facebook page.",
     "stars": 4,
     "category": 1,
-    "pro": "Бих казал, че върши работа и се разбира от раз.",
-    "cons": "Можеше и по-добре, направих го малко на бързо."
+    "pro": "I'd say it does the job and is instantly recognizable.",
+    "cons": "Could have been better, I did it a bit hastily."
   },
   {
     "id": 13,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/13.jpg",
-    "description": "Лого за участие в конкурс.",
+    "description": "Logo for a competition entry.",
     "stars": 2,
     "category": 1,
-    "pro": "Харесвам единствено цветовата комбинация.",
-    "cons": "Не мисля, че е най-добрата ми работа. Не е завършено и не изглежда добре."
+    "pro": "I only like the color combination.",
+    "cons": "I don't think it's my best work. It's unfinished and doesn't look good."
   },
   {
     "id": 14,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/14.jpg",
-    "description": "Лого за участие в конкурс. Малко извън стилът ми, цветовите преливки нямат място в лого, но си го позволих, защото тук става дума за Принт услуги.",
+    "description": "Logo for a competition entry. A bit outside my style, color gradients don't belong in a logo, but I allowed it here because it's for print services.",
     "stars": 5,
     "category": 1,
-    "pro": "Харесвам това лого!",
-    "cons": "Сега бих подбрал друга шрифтова комбинация."
+    "pro": "I like this logo!",
+    "cons": "Now I'd choose a different font combination."
   },
   {
     "id": 15,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/15.jpg",
-    "description": "Лого за участие в конкурс. Може би не е това, което търсеше клиента, но според мен е много добро.",
+    "description": "Logo for a competition entry. Maybe not what the client was looking for, but I think it's very good.",
     "stars": 4,
     "category": 1,
-    "pro": "Харесвам стрелката в ляво. Мисля, че е запомнящо се.",
-    "cons": "Нямам забележки"
+    "pro": "I like the arrow on the left. I think it's memorable.",
+    "cons": "No remarks."
   },
   {
     "id": 16,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/16.jpg",
-    "description": "Дизайн на циферблат за клиент от Fiverr. И представа си нямам за какво му е, но е много интересен. Голямо уточняване падна с тези камъни, кой къде да бъде",
+    "description": "Watch face design for a Fiverr client. No idea what it's for, but it's very interesting. Lots of clarifications about the stones and their placement.",
     "stars": 5,
     "category": 3,
-    "pro": "Супер стилно! Завършено и с много детайли. Обичам този дизайн!",
-    "cons": "Нямам забележки"
+    "pro": "Super stylish! Finished and very detailed. I love this design!",
+    "cons": "No remarks."
   },
   {
     "id": 17,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/17.jpg",
-    "description": "Отново циферблат, за ретро часовник. Нямам какво да кажа за него.",
+    "description": "Another watch face, for a retro clock. Nothing more to say.",
     "stars": 4,
     "category": 3,
-    "pro": "Много близко до оригинала.",
-    "cons": "Нямам забележки"
+    "pro": "Very close to the original.",
+    "cons": "No remarks."
   },
   {
     "id": 18,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/18.jpg",
-    "description": "Лого спечелило конкурс. Клиента остана довоолен, аз също!",
+    "description": "Logo that won a competition. The client was happy, so was I!",
     "stars": 5,
     "category": 1,
-    "pro": "Добра цветова комбинация. Ясно изразено движение, както желаеше клиента.",
-    "cons": "Нямам забележки, всъщност имам малки... но не искам да го хейтя, защото си го харесвам."
+    "pro": "Good color combination. Clearly expressed movement, just as the client wanted.",
+    "cons": "No remarks, actually I have some small ones... but I don't want to criticize it because I like it."
   },
   {
     "id": 19,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/19.jpg",
-    "description": "Табелка за входна врата. Лазерно изрязване, UV печат",
+    "description": "Nameplate for a front door. Laser cut, UV print.",
     "stars": 5,
     "category": 4,
-    "pro": "Красив, добре измислен краен продукт",
-    "cons": "UV принтера, изобщо не изкара зеленото което очаквах."
+    "pro": "Beautiful, well-designed final product.",
+    "cons": "The UV printer didn't produce the green I expected at all."
   },
   {
     "id": 20,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/20.jpg",
-    "description": "Дизайна говори за себе си. Като цяло не зле, но не е и нещо уникално.",
+    "description": "The design speaks for itself. Overall not bad, but nothing unique.",
     "stars": 3,
     "category": 4,
-    "pro": "Табелата стана информативна и ясна. Дизайна работи",
-    "cons": "Сега бих подбрал друго изображение на автомобил... всъщност целият дизайн би претърпял промяна..."
+    "pro": "The sign became informative and clear. The design works.",
+    "cons": "Now I'd choose a different car image... actually, the whole design would change..."
   },
   {
     "id": 21,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/21.jpg",
-    "description": "Лого за участие в конкурс. Имам смесени чувства към него.",
+    "description": "Logo for a competition entry. I have mixed feelings about it.",
     "stars": 3,
     "category": 1,
-    "pro": "Харесвам отрязъка в първата буква, използвах парчето от нея и в точката на буквата i.",
-    "cons": "Тази точка, преди COM, изобщо ще се вижда ли? Буквата P също не ми харесва."
+    "pro": "I like the cut in the first letter, I used the piece from it in the dot of the letter 'i'.",
+    "cons": "Will that dot before 'COM' even be visible? I also don't like the letter 'P'."
   },
   {
     "id": 22,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/22.jpg",
-    "description": "Лого спечелило конкурс. Едно от първите ми лога. Клиента не разбра връзката между двете букви. Попита ме защо съм добавил гиричката, за да покажа сила ли? Всъщност е графичен елемент, изобразяващ свързаност.",
+    "description": "Logo that won a competition. One of my first logos. The client didn't understand the connection between the two letters. He asked if I added the dumbbell to show strength? Actually, it's a graphic element representing connection.",
     "stars": 4,
     "category": 1,
-    "pro": "Минималистично, и запомнящо се.",
-    "cons": "Гиричка или Свързаност? Не стана ясно."
+    "pro": "Minimalist and memorable.",
+    "cons": "Dumbbell or connection? It wasn't clear."
   },
   {
     "id": 23,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/23.jpg",
-    "description": "Лого спечелило конкурс. Вижте колко е весело само, помня че много се забавлявах, докато го правех! Също едно от първите ми, вероятно от преди 14 години, мисля че използвах Inkscape по това време... Знам, Inkscape няма CMYK, но да не говорим за това сега.",
+    "description": "Logo that won a competition. Just look how cheerful it is, I remember having a lot of fun making it! Also one of my first, probably from 14 years ago, I think I used Inkscape at the time... I know, Inkscape doesn't have CMYK, but let's not talk about that now.",
     "stars": 5,
     "category": 1,
-    "pro": "Доста позитивно",
-    "cons": "Не бих го нарекъл точно лого"
+    "pro": "Very positive.",
+    "cons": "I wouldn't exactly call it a logo."
   },
   {
     "id": 24,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/24.jpg",
-    "description": "Лого за Спортен клуб във Видин. Изключително много се радвам, когато видя млади хора да печелят медали носейки тенсика с моето лого.",
+    "description": "Logo for a sports club in Vidin. I'm extremely happy when I see young people winning medals wearing a t-shirt with my logo.",
     "stars": 5,
     "category": 1,
-    "pro": "Гордея се че създадох нещо, което вдъхновява младите, напълно безплатно!",
-    "cons": "Можеше да е малко по-стегнато, не мога да го обясня, мисля че му трябва лек редизайн."
+    "pro": "I'm proud to have created something that inspires young people, completely free!",
+    "cons": "It could be a bit tighter, I can't explain it, I think it needs a slight redesign."
   },
   {
     "id": 25,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/25.jpg",
-    "description": "Освежаване на скучен стенен часовник, с модерен мотив от видеоигра.",
+    "description": "Refreshing a boring wall clock with a modern video game motif.",
     "stars": 4,
     "category": 3,
-    "pro": "От скучния оригинален до свеж и интересен за младите",
-    "cons": "Малко дърводелски съм изрязъл самия циферблат."
+    "pro": "From a boring original to something fresh and interesting for young people.",
+    "cons": "I cut the dial a bit roughly."
   },
   {
     "id": 26,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/26.jpg",
-    "description": "Колаж, Това сме ние, поставен в рамка.",
+    "description": "Collage. That's us, framed.",
     "stars": 2,
     "category": 4,
-    "pro": "Нямам какво да кажа за това.",
-    "cons": "Не предвидих, че рамката ще закрие част от колажа, текста е малко по-надолу от желаното."
+    "pro": "Nothing to say about this.",
+    "cons": "I didn't anticipate the frame would cover part of the collage, the text is a bit lower than desired."
   },
   {
     "id": 27,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/27.jpg",
-    "description": "3D принтиран ключодържател, лазерно изрязан плексиглас, и печат на фотохартия.",
+    "description": "3D printed keychain, laser-cut plexiglass, and photo paper print.",
     "stars": 3,
     "category": 2,
-    "pro": "Леки са и изглеждат добре.",
-    "cons": "Като цяло загуба на време."
+    "pro": "They're light and look good.",
+    "cons": "Overall, a waste of time."
   },
   {
     "id": 28,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/28.jpg",
-    "description": "Подпори за книги, с цитат ба български.",
+    "description": "Bookends with a quote in Bulgarian.",
     "stars": 5,
     "category": 2,
-    "pro": "Изглеждат страхотно.",
-    "cons": "Леки са и не много стабилни."
+    "pro": "They look great.",
+    "cons": "They're light and not very stable."
   },
   {
     "id": 29,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/29.jpg",
-    "description": "Клиента остана доволен и си го ползва активно.",
+    "description": "The client was satisfied and uses it actively.",
     "stars": 2,
     "category": 1,
-    "pro": "Върши работа",
-    "cons": "Има идея, но можеше и по-добре."
+    "pro": "It does the job.",
+    "cons": "There's an idea, but it could have been better."
   },
   {
     "id": 30,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/30.jpg",
-    "description": "Това беше за GIG в Fiverr.",
+    "description": "This was for a Fiverr GIG.",
     "stars": 4,
     "category": 4,
-    "pro": "Примерните визитки изглеждат добре",
-    "cons": "Не харесвам особенно главния текст."
+    "pro": "The sample business cards look good.",
+    "cons": "I don't particularly like the main text."
   },
   {
     "id": 31,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/31.jpg",
-    "description": "Младата дама, получи брандинга си, и остана доволна.",
+    "description": "The young lady got her branding and was happy.",
     "stars": 4,
     "category": 4,
-    "pro": "Харесвам тъмния тон и как златото стои на него.",
-    "cons": "Можеше и по-добре като цяло."
+    "pro": "I like the dark tone and how the gold looks on it.",
+    "cons": "Overall, it could have been better."
   },
   {
     "id": 32,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/32.jpg",
-    "description": "7 участия, 4 победи и 6 подиума, ако мога да вярвам на chatGPT. Дизайн за цялостно облепване. ",
+    "description": "7 participations, 4 wins, and 6 podiums, if I can trust chatGPT. Full wrap design.",
     "stars": 5,
     "category": 4,
-    "pro": "Получи се доста добре бих казал.",
-    "cons": "Нямам забележки"
+    "pro": "Turned out pretty well, I'd say.",
+    "cons": "No remarks."
   },
   {
     "id": 33,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/33.jpg",
-    "description": "Лого за участие в конкурс. Не е нищо особено.",
+    "description": "Logo for a competition entry. Nothing special.",
     "stars": 3,
     "category": 1,
-    "pro": "Ще изглежда добре и на химикалка.",
-    "cons": "Шрифт със заострени ъгли и иконка със заоблени ъгли, не е най-доброто съчетание."
+    "pro": "Will look good even on a pen.",
+    "cons": "Font with sharp corners and icon with rounded corners is not the best combination."
   },
   {
     "id": 34,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/34.jpg",
-    "description": "Знаете ли, че при ретро часовниците често римското 4 се изписва IIII? Не знам защо, но е така.",
+    "description": "Did you know that on retro clocks, the Roman numeral 4 is often written as IIII? I don't know why, but that's how it is.",
     "stars": 4,
     "category": 3,
-    "pro": "Отличен циферблат",
-    "cons": "Нямам забележки"
+    "pro": "Excellent watch face.",
+    "cons": "No remarks."
   },
   {
     "id": 35,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/35.jpg",
-    "description": "Отново се гони автентичен вид.",
+    "description": "Again, aiming for an authentic look.",
     "stars": 5,
     "category": 3,
-    "pro": "Няма какво да добавя тук",
-    "cons": "Нямам забележки"
+    "pro": "Nothing to add here.",
+    "cons": "No remarks."
   },
   {
     "id": 36,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/36.jpg",
-    "description": "Лого за участие в конкурс. Това кой знае кога е правено... ужасно е.",
+    "description": "Logo for a competition entry. Who knows when this was made... it's terrible.",
     "stars": 1,
     "category": 1,
-    "pro": "За нищо позитивно не се сещам, когато гледам това нещо",
-    "cons": "Сепараторите, кравата... всичко е ужасно. Не знам какво съм си мислил, когато съм го правил."
+    "pro": "Can't think of anything positive when I look at this.",
+    "cons": "The separators, the cow... everything is terrible. I don't know what I was thinking when I made this."
   },
   {
     "id": 37,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/37.jpg",
-    "description": "Лого за участие в конкурс. Знаете ли какво е дизайнерска слепота? Това е когато не виждате грешките в дизайна си, докато не го погледнете пак след време. Помня че докато го правех, си мислех, че е страхотно, но сега не мога да повярвам какво съм направил.",
+    "description": "Logo for a competition entry. Do you know what designer's blindness is? It's when you don't see the mistakes in your design until you look at it again later. I remember thinking it was great while making it, but now I can't believe what I did.",
     "stars": 2,
     "category": 1,
-    "pro": "Поне е еднородно, би се принтирало и рязало без проблем.",
-    "cons": "Човека пише кулинарни книги, но логото не говори много за това."
+    "pro": "At least it's uniform, would print and cut without issues.",
+    "cons": "The person writes cookbooks, but the logo doesn't really say that."
   },
   {
     "id": 38,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/38.jpg",
-    "description": "Лого за участие в конкурс. Тук някъде съм започнал да изграждам свой стил.",
+    "description": "Logo for a competition entry. Around here I started developing my own style.",
     "stars": 4,
     "category": 1,
-    "pro": "Харесвам въздуха между рамката и буквите",
-    "cons": "Изглежда малко недовършено."
+    "pro": "I like the space between the frame and the letters.",
+    "cons": "Looks a bit unfinished."
   },
   {
     "id": 39,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/39.jpg",
-    "description": "Поръчителят на дизайна изработва часовници, движещи се на обратно!!! Кой ги купува тези неща?",
+    "description": "The client makes clocks that run backwards!!! Who buys these things?",
     "stars": 5,
     "category": 1,
-    "pro": "Харесвам идеята за обратно движение вкарана в буквата O.",
-    "cons": "Шрифта не е ли една идея по-тънък от необходимото? Не знам, не съм сигурен."
+    "pro": "I like the idea of reverse movement incorporated into the letter O.",
+    "cons": "Isn't the font a bit too thin? I don't know, I'm not sure."
   },
   {
     "id": 40,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/40.jpg",
-    "description": "Лого за участие в конкурс. Медицинска тематика, грижа за здравето или подобно... Беше отдавна.",
+    "description": "Logo for a competition entry. Medical theme, health care or something like that... It was a long time ago.",
     "stars": 4,
     "category": 1,
-    "pro": "Ако бях избрал адекватен шрифт, бих си дал 5 звезди.",
-    "cons": "Е, вярно ли съм избрал този шрифт... какво е това изобщо - helvetica?"
+    "pro": "If I had chosen a proper font, I'd give myself 5 stars.",
+    "cons": "Did I really choose this font... what is it anyway - Helvetica?"
   },
   {
     "id": 41,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/41.jpg",
-    "description": "Лого за участие в конкурс. Имаше тренд с тази плетеница. Дженерик лого като цяло, но хваща окото.",
+    "description": "Logo for a competition entry. There was a trend with this braid. Generic logo overall, but eye-catching.",
     "stars": 4,
     "category": 1,
-    "pro": "Те всички букви са си главни, но главните са по-главни от другите :)",
-    "cons": "Нямам забележки"
+    "pro": "All the letters are uppercase, but some are more uppercase than others :)",
+    "cons": "No remarks."
   },
   {
     "id": 42,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/42.jpg",
-    "description": "Няма да пиша коментар за това лого.",
+    "description": "I won't comment on this logo.",
     "stars": 3,
     "category": 1,
-    "pro": "Няма какво да добавя тук",
-    "cons": "Забележки имам, но не ми се хейти."
+    "pro": "Nothing to add here.",
+    "cons": "I have remarks, but I don't feel like criticizing."
   },
   {
     "id": 43,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/43.jpg",
-    "description": "Лого за участие в конкурс. Радвам се, че клиента не го избра, защото не ми харесва.",
+    "description": "Logo for a competition entry. I'm glad the client didn't choose it, because I don't like it.",
     "stars": 1,
     "category": 1,
-    "pro": "Харесвам текста но не и иконата",
-    "cons": "Нещо не е наред с това лого."
+    "pro": "I like the text but not the icon.",
+    "cons": "Something is wrong with this logo."
   },
   {
     "id": 44,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/44.jpg",
-    "description": "По едно шоколадово яйце и картичка по детски, за колежките. Стана готино подаръче за 8-ми март, момичетата се изкефиха на макс.",
+    "description": "A chocolate egg and a card for the ladies at work. Made a nice little gift for March 8th, the girls loved it.",
     "stars": 5,
     "category": 4,
-    "pro": "font Lobster - завинаги",
-    "cons": "Нямам забележки"
+    "pro": "Font Lobster - forever.",
+    "cons": "No remarks."
   },
   {
     "id": 45,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/45.jpg",
-    "description": "Лого за участие в конкурс. Не съм убеден, мисля че хората търгуваха със специализирани машини за събиране на скрап.",
+    "description": "Logo for a competition entry. Not sure, I think the people traded in specialized scrap collection machines.",
     "stars": 3,
     "category": 1,
-    "pro": "Няма какво да добавя тук",
-    "cons": "Хванал съм идеята, но не съм я развил адекватно."
+    "pro": "Nothing to add here.",
+    "cons": "I got the idea, but didn't develop it adequately."
   },
   {
     "id": 46,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/46.jpg",
-    "description": "Лого за участие в конкурс.",
+    "description": "Logo for a competition entry.",
     "stars": 3,
     "category": 1,
-    "pro": "Визуално е приятно с тези два нюанса на лилавото.",
-    "cons": "Дребни детайли, няма да се виждат на визитка."
+    "pro": "Visually pleasing with these two shades of purple.",
+    "cons": "Small details won't be visible on a business card."
   },
   {
     "id": 47,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/47.jpg",
-    "description": "Лого за участие в конкурс. Мисля, че изглежда добре.",
+    "description": "Logo for a competition entry. I think it looks good.",
     "stars": 4,
     "category": 1,
-    "pro": "Подсказва за стройтелство.",
-    "cons": "Има какво още да се желае."
+    "pro": "Hints at construction.",
+    "cons": "There's still room for improvement."
   },
   {
     "id": 48,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/48.jpg",
-    "description": "Лого за участие в конкурс. Не си знае годините. Изобщо не знам защо съм добавил и пеперудата, може би е било изискване на клиента.",
+    "description": "Logo for a competition entry. No idea how old it is. I don't know why I added the butterfly, maybe it was a client requirement.",
     "stars": 3,
     "category": 1,
-    "pro": "Няма какво да добавя тук",
-    "cons": "Серифния шрифт не отговаря на стила на логото."
+    "pro": "Nothing to add here.",
+    "cons": "The serif font doesn't match the logo's style."
   },
   {
     "id": 49,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/49.jpg",
-    "description": "Лого за участие в конкурс. Още един пример за дизайнерска слепота. Вярвах че е шедьовър докато го правех, но сега виждам че съм грешил.",
+    "description": "Logo for a competition entry. Another example of designer's blindness. I thought it was a masterpiece while making it, but now I see I was wrong.",
     "stars": 1,
     "category": 1,
-    "pro": "Напомня на зелена пазарска чанта, това беше и целта ми",
-    "cons": "Острия отрязък в листенцата, умопомрачително грозно изпълнение."
+    "pro": "Reminds me of a green shopping bag, which was my goal.",
+    "cons": "The sharp cut in the leaves, incredibly ugly execution."
   },
   {
     "id": 50,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/50.jpg",
-    "description": "Лого за участие в конкурс. Не мисля, че е най-добрата ми работа.",
+    "description": "Logo for a competition entry. I don't think it's my best work.",
     "stars": 1,
     "category": 1,
-    "pro": "Харесвам бялия фон отзад и нищо друго тук!",
-    "cons": "Всякъш някой е дръпнал платното ми, докато съм рисувал, незавършено е."
+    "pro": "I like the white background and nothing else here!",
+    "cons": "It's as if someone pulled my canvas while I was drawing, it's unfinished."
   },
   {
     "id": 51,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/51.jpg",
-    "description": "Лого за участие в конкурс. Тук ще си дам 5 звезди, част от заданието беше да се мисли извън кутията, абстрактно и различно.",
+    "description": "Logo for a competition entry. I'll give myself 5 stars here, part of the brief was to think outside the box, abstract and different.",
     "stars": 5,
     "category": 1,
-    "pro": "Просто си го харесвам, това е всичко!",
-    "cons": "Застъпващи се елементи, трудно за печат и рязане."
+    "pro": "I just like it, that's all!",
+    "cons": "Overlapping elements, hard to print and cut."
   },
   {
     "id": 52,
     "url": "https://raw.githubusercontent.com/Serafimov-Dev/design-gallery/main/52.jpg",
-    "description": "Много, много старо. Ако някой пита, не съм го правил аз! Мисля че тепърва се учех да работя с векторни графики.",
+    "description": "Very, very old. If anyone asks, I didn't make it! I think I was just learning to work with vector graphics.",
     "stars": 2,
     "category": 1,
-    "pro": "Малко ми навява носталгия, беше изключително отдавна",
-    "cons": "Огромни елементи, минитюрни детайли, няма идея."
+    "pro": "Makes me a bit nostalgic, it was a long time ago.",
+    "cons": "Huge elements, tiny details, no idea."
   }
 ]
